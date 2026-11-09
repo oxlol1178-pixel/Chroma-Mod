@@ -1,40 +1,51 @@
+
 [
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+  {
+    "name": "Chroma",
+    "leaderName": "Alarico I",
+    "adjective": ["Chromana"],
+    "startBias": ["Coast"],
+    "preferredVictoryType": "Diplomatic",
 
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+    "startIntroPart1": "Bem-vindos ao Reino de Chroma.",
+    "startIntroPart2": "Sob a autoridade da Coroa, nossa nação preserva sua independência, prosperidade e tradição. Esperamos estabelecer relações respeitosas entre nossos países.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+    "declaringWar": "Chroma não permitirá ameaças à sua soberania. A Coroa considera esta guerra necessária.",
+    "attacked": "Vocês cometeram um grave erro ao desafiar o Reino de Chroma.",
+    "defeated": "A Coroa caiu, mas a história de Chroma não terminará aqui.",
+    "introduction": "Sou Alarico I, Rei de Chroma. Espero que nossas nações possam estabelecer relações respeitosas.",
+
+    "neutralHello": "Saudações. Como está sua nação?",
+    "neutralLetsHearIt": ["Estou ouvindo.", "Prossiga com sua proposta.", "A Coroa está disposta a escutar."],
+    "neutralNo": ["Infelizmente, não podemos aceitar.", "A proposta não atende aos nossos interesses.", "A Coroa recusa."],
+    "neutralYes": ["Muito bem. Aceitamos.", "Temos um acordo.", "A Coroa concorda."],
+
+    "hateHello": "O que deseja agora?",
+    "hateLetsHearIt": ["Seja breve.", "Estamos ouvindo.", "Apresente sua proposta."],
+    "hateNo": ["Absolutamente não.", "Não aceitaremos essas condições.", "A proposta é inaceitável."],
+    "hateYes": ["Aceitaremos, desta vez.", "Muito bem.", "Que assim seja."],
+
+    "afterPeace": "A paz finalmente retorna. Chroma poderá voltar a cuidar de seus interesses.",
+    "tradeRequest": "A Coroa de Chroma apresenta uma proposta comercial.",
+    "denounced": "As acusações contra nossa nação são injustificadas.",
+    "declaringfriendship": "Que nossas nações estabeleçam uma amizade duradoura.",
+
+    "outerColor": [180, 20, 35],
+    "innerColor": [245, 205, 105],
+
+    "unique": "MANIFEST_DESTINY",
+
+    "cities": [
+      "Victoria",
+      "Novo Petersburgo",
+      "Neu Chroma",
+      "Nova Moscou",
+      "Neu-Berlin",
+      "Santa Cruz do Sul",
+      "Pustosh",
+      "Pustosh do Sul",
+      "Ekaterina Velikaya",
+      "Neuer Kaiser"
+    ]
+  }
 ]
